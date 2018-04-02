@@ -1,0 +1,15 @@
+{
+  "name": "angcssmaterialformsample",
+  "version": "1.0.0",
+  "description": "Angular 1 form made using the css material framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "learningmode",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  }
+}
